@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Simple Plan 严格验证",
+    "description": "随插件分发的技能:把任务拆成 2-7 步,用 worker 子代理执行,每个交付物都由无记忆的 verifier 子代理独立验证,最多修 3 轮后如实汇报。"
+  }
+}

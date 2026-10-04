@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Simple Plan",
+    "description": "Bundled skill: plan 2-7 steps, execute them with worker subagents, verify every deliverable with a memoryless verifier subagent, and fix in at most three cycles before reporting honestly."
+  }
+}

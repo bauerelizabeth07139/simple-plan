@@ -1,5 +1,7 @@
 # simple-plan
 
+[![dsh.so risk](https://www.dsh.so/badge/simple-plan.svg)](https://www.dsh.so/artifact/simple-plan/)
+
 **Plan → Execute → Verify → Fix**, enforced on every task, as a DeepSeek
 Harness plugin. The skill ships inside the bundle: install the plugin and the
 skill is there, with nothing to copy into a skills directory.
